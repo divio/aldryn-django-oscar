@@ -1,0 +1,6 @@
+{
+    "installed-apps": [
+        "aldryn_django_oscar"
+    ], 
+    "package-name": "aldryn-django-oscar"
+}
