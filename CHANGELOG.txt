@@ -1,3 +1,8 @@
+1.2.2.3 (2017-05-04)
+====================
+
+* Update and cleanup aldryn config to make it less invasive and work alongside aldryn-django-cms
+
 1.2.2.2 (2017-05-04)
 ====================
 
